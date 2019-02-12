@@ -6,9 +6,9 @@ services:
 env:
   - DOCKER_COMPOSE_VERSION=1.4.2
 
-install:
-  - pip install redis
-  - pip install flask
+#install:
+#  - pip install redis
+#  - pip install flask
   
 script:
   - docker-compose up
