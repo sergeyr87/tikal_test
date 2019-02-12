@@ -14,5 +14,5 @@ script:
   - docker-compose up
   
 # command to run tests
-script:
-  - pytest
+#script:
+#  - pytest
