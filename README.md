@@ -1,4 +1,9 @@
 # tikal_test
 
-i added docker compose for service call teletraan it a deploy service 
-all you need to is to run it and you have new deploy systemn 
+python web very simple app
+with flask 
+
+to run it just use:
+clone the repo
+run docker-compose up
+and you ready to go
